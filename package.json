@@ -1,0 +1,8 @@
+{
+  "name": "react_app",
+  "private": true,
+  "dependencies": {
+    "create-react-class": "^15.6.1",
+    "react": "^15.6.1"
+  }
+}
